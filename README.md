@@ -1,10 +1,10 @@
-# google-homepage
+# The Odin Project
 <head>
-	<title>The Odin Project</title>
+	<title>HTML/CSS Google Homepage Workshop</title>
 </head>
 <body>
 	<p>
-	<a href="theodinproject.com">Project origin</a>
+	<a href="http://www.theodinproject.com/web-development-101/html-css?ref=lc-pb">Project link</a>
 	</p>
 </body>
  
