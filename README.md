@@ -1,3 +1,8 @@
 # google-homepage
-The Odin Project
-Hello world
+<head>
+	<title>The Odin Project</title>
+</head>
+<body>
+	<a href="theodinproject.com">
+</body>
+ 
