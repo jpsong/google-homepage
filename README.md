@@ -2,8 +2,9 @@
 <head>
 	<title>The Odin Project</title>
 </head>
-<br>
 <body>
+	<p>
 	<a href="theodinproject.com">Project origin</a>
+	</p>
 </body>
  
